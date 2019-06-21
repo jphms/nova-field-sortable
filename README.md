@@ -13,7 +13,7 @@ This package isn't on Packagist, so to get started, add it as a repository to yo
     }
 ]
 ```
-Next, run this command to add the preset to your project:
+Next, run this command to add the package to your project:
 
 ```bash
 composer require jphms/nova-field-sortable --dev
