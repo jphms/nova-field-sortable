@@ -12,4 +12,8 @@ class Sortable extends Field
      * @var string
      */
     public $component = 'nova-field-sortable';
+    
+    public $showOnCreation = false;
+    
+    public $showOnUpdate = false;
 }
